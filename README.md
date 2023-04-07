@@ -1,8 +1,8 @@
 # UCAS-CACT-LAB-REPORTS
 ## Introduction
-This is our lab reports for UCAS compiler seminar 2021-2022 Spring. 
+This is our lab reports repo for UCAS compiler seminar 2021-2022 Spring. 
 
-This is toy compiler from a subset of C to RISCVGC, and we implemented some naive data-flow based optimizations / algorithms in the backend:
+This is a toy compiler from a subset of C to RISCVGC, and we implemented some naive data-flow based optimizations / algorithms in the backend:
 + constant folding and propagation
 + live variable analysis
 + register allocation
